@@ -1,0 +1,11 @@
+.vscode/
+.prettierrc
+.eslintrc.js
+/src/api/mySqlOptions.js
+/src/api/domain.js
+/test/
+/src/cryptoKeys
+/cdn/
+/node_modules
+/openssl
+/src/api/serverOptions.js

@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "chrome debugger",
+      "request": "launch",
+      "type": "chrome",
+      "url": "https://localhost:5000",
+      "webRoot": "${workspaceFolder}/"
+    }
+  ]
+}
